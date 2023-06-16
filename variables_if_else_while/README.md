@@ -3,5 +3,6 @@
 <li>Added C program that prints the last digit of a number stored in a variable</li>
 <li>Added C program that prints the alphabet in lowercase, followed by a new line</li>
 <li>Added C program that prints the alphabet in lowercase and in uppercase, followed by a new line</li>
+<li>Added C program that prints the alphabet in lowercase, with the exception of two letters</li>
 
 </ol>
