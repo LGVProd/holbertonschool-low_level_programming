@@ -5,5 +5,5 @@
 <li>Added script that compiles a C file and creates an executable</li>
 <li>Added C program that prints a line, using the puts command</li>
 <li>Added C program that prints a line, using the printf command</li>
-
+<li>Added C program that prints the size of various types on the computer it runs on</li>
 </ol>
