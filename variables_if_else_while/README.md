@@ -8,5 +8,5 @@
 <li>Added C program that prints all single-digit numbers, starting from 0, using the putchar command specifically</li>
 <li>Added C program that prints the alphabet in lowercase, but in reverse</li>
 <li>Added C program that prints all the numbers of base 16 in lowercase, followed by a new line</li>
-
+<li>Added C program that prints all single-digit numbers, separated by a comma and a space</li>
 </ol>
