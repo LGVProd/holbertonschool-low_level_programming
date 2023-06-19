@@ -6,5 +6,6 @@
 <li>Added C program that checks whether a character is alphabetic or not</li>
 <li>Added C program that prints the sign of a number</li>
 <li>Added C program that prints the absolute value of a number</li>
+<li>Added C program that prints the last digit of a number</li>
 
 </ol>
