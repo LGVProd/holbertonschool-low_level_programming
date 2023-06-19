@@ -7,5 +7,6 @@
 <li>Added C program that prints the sign of a number</li>
 <li>Added C program that prints the absolute value of a number</li>
 <li>Added C program that prints the last digit of a number</li>
+<li>Added C program that prints every minute of the day, from 00:00 to 23:59</li>
 
 </ol>
