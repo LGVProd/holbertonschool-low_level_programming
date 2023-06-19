@@ -10,5 +10,5 @@
 <li>Added C program that prints every minute of the day, from 00:00 to 23:59</li>
 <li>Added C program that prints the 9 times table, starting with 0</li>
 <li>Added C program that adds two integers and returns the result</li>
-
+<li>Added C program that prints all natural numbers from n to 98, followed by a new line</li>
 </ol>
