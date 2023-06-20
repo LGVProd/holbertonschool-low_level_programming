@@ -7,6 +7,6 @@
 <li>Added C program that prints all numbers from 0 to 14, ten times, followed by a new line</li>
 <li>Added C program that draws a straight line on the terminal</li>
 <li>Added C program that draws a diagonal line on the terminal</li>
-</li>
+<li>Added C program that prints a square on the terminal</li>
 
 </ol>
