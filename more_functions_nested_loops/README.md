@@ -9,5 +9,5 @@
 <li>Added C program that draws a diagonal line on the terminal</li>
 <li>Added C program that prints a square on the terminal</li>
 <li>Added C program that prints all numbers from 1 to 100, substituting multiples of 3 and 5</li>
-
+<li>Added C program that prints a triangle, followed by a new line</li>
 </ol>
