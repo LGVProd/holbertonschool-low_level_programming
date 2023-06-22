@@ -4,5 +4,6 @@
 <li>Added C program that returns the length of a string</li>
 <li>Added C program that prints a string, followed by a new line</li>
 <li>Added C program that prints a string in reverse, followed by a new line</li>
+<li>Added C program that reverses a string</li>
 
 </ol>
