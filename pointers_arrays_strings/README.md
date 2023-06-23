@@ -8,5 +8,6 @@
 <li>Added C program that prints every other character of a string, starting with the first one</li>
 <li>Added C program that prints the second half of a string, followed by a new line</li>
 <li>Added C program that prints n elements of an array of integers, followed by a new line</li>
+<li>Added C program that copies a string to a buffer</li>
 
 </ol>
