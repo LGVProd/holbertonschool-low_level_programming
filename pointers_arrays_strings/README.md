@@ -6,5 +6,6 @@
 <li>Added C program that prints a string in reverse, followed by a new line</li>
 <li>Added C program that reverses a string</li>
 <li>Added C program that prints every other character of a string, starting with the first one</li>
+<li>Added C program that prints the second half of a string, followed by a new line</li>
 
 </ol>
