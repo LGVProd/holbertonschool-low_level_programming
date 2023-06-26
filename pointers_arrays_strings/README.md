@@ -10,4 +10,6 @@
 <li>Added C program that prints n elements of an array of integers, followed by a new line</li>
 <li>Added C program that copies a string to a buffer</li>
 <li>Added C program that converts a string to an integer</li>
+<li>Added C program that concatenates two strings</li>
+
 </ol>
