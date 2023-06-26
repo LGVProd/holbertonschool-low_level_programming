@@ -14,5 +14,6 @@
 <li>Added C program that concatenates two strings (analog to strncat)</li>
 <li>Added C program that copies a string</li>
 <li>Added C program that compares two strings</li>
+<li>Added C program that reverses the contents of an array of integers</li>
 
 </ol>
