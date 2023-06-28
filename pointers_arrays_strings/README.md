@@ -16,5 +16,6 @@
 <li>Added C program that compares two strings</li>
 <li>Added C program that reverses the contents of an array of integers</li>
 <li>Added C program that changes all lowercase letters of a string to uppercase</li>
+<li>Added C program that capitalizes all words of a string</li>
 
 </ol>
