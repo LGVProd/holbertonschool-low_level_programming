@@ -17,5 +17,6 @@
 <li>Added C program that reverses the contents of an array of integers</li>
 <li>Added C program that changes all lowercase letters of a string to uppercase</li>
 <li>Added C program that capitalizes all words of a string</li>
+<li>Added C program that encodes a string into 1337</li>
 
 </ol>
